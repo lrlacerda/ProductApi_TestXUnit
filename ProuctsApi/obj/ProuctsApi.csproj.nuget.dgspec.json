@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\32784630803\\Desktop\\ProuctsApi\\ProuctsApi.csproj": {}
+    "C:\\Users\\32784630803\\Desktop\\ProductApi_TestXUnit\\ProuctsApi\\ProuctsApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\32784630803\\Desktop\\ProuctsApi\\ProuctsApi.csproj": {
+    "C:\\Users\\32784630803\\Desktop\\ProductApi_TestXUnit\\ProuctsApi\\ProuctsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\ProuctsApi\\ProuctsApi.csproj",
+        "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\ProductApi_TestXUnit\\ProuctsApi\\ProuctsApi.csproj",
         "projectName": "ProuctsApi",
-        "projectPath": "C:\\Users\\32784630803\\Desktop\\ProuctsApi\\ProuctsApi.csproj",
+        "projectPath": "C:\\Users\\32784630803\\Desktop\\ProductApi_TestXUnit\\ProuctsApi\\ProuctsApi.csproj",
         "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\32784630803\\Desktop\\ProuctsApi\\obj\\",
+        "outputPath": "C:\\Users\\32784630803\\Desktop\\ProductApi_TestXUnit\\ProuctsApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
